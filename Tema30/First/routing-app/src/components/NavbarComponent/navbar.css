@@ -1,0 +1,15 @@
+.nav-container {
+    margin-bottom: 10px;
+}
+
+.nav-link {
+    border: 1px solid #aaaaaa;
+    padding: 4px;
+    border-radius: 4px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.nav-link:hover {
+    background-color: darkcyan;
+}
